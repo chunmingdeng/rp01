@@ -1,3 +1,4 @@
-*.js linguist-language=react
-*.html linguist-language=react
-*.jsx linguist-language=react
+# *.js linguist-language=react
+# *.html linguist-language=react
+# *.jsx linguist-language=react
+# //用来设置项目在github上的语言分类
