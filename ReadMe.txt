@@ -28,7 +28,7 @@
     修改package.json文件
     scripts中添加
         "start":"webpack-dev-serve -d --config webpack.config.js"
-        "build":"webpack -config webpack.config.js"
+        "build":"webpack --config webpack.config.js"
 
 步骤四、
     配置webpack.config.js文件
