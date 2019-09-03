@@ -5,7 +5,7 @@
     安装react的npm基础库
     npm install -D webpack webpack-dev-server
     高版本的webpack包还需要安装相应的webpack-cli
-    npm install -D babel babel-preset-modx babel-loader @babel/core @babel/preset-react @babel/preset-env
+    npm install -D babel babel-preset-mobx babel-loader @babel/core @babel/preset-react @babel/preset-env
     这里的babel使用的是v8.* 其余相关的babel使用的是v7.*，注意包的版本，然后按照.babelrc的文件配置相应的babel配置，并且在webpack的配置文件（本例使用的是webpack.config.js）中配置babel-loader来加载.jsx文件
 
 步骤二、
